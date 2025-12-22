@@ -1,6 +1,7 @@
 # STUDENT-PROGRESS-REPORT
 ## Project Overview 
 ---> Student Progress Report system is a python based console application that works on summarize the student overal marks data to print a student progress report or else download it as in .txt format
+
 ---> This project is designed for beginners who are learning python basic. It is very helpfull to practice python basics like 
         ● Variables Data Types
         ● Taking User Input
