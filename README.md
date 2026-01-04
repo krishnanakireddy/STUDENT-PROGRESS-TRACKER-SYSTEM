@@ -4,21 +4,21 @@
 
 ---> This project is designed for beginners who are learning python basic. It is very helpfull to practice python basics like 
 
-        ● Variables Data Types
+   ● Variables Data Types
         
-        ● Taking User Input
+   ● Taking User Input
         
-        ● Arithmetic Operators
+   ● Arithmetic Operators
         
-        ● Conditions (if, elif, else)
+   ● Conditions (if, elif, else)
         
-        ● For Loop
+   ● For Loop
         
-        ● While Loop
+   ● While Loop
         
-        ● Do‑While Logic in Python
+   ● Do‑While Logic in Python
         
-        ● Output Formatting with f‑strings
+   ● Output Formatting with f‑strings
 
 ## How to Run the Project
 
